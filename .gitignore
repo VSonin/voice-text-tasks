@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+node_modules/
+.env
+google-credentials.json
+*.log
+token.txt
+=======
 # Logs
 logs
 *.log
@@ -134,3 +141,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+>>>>>>> 46800af248e3ce1a2673dc51d18e84bf71d17f4b
